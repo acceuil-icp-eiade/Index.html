@@ -514,4 +514,3 @@ function toggleVideo() {
   }
 }
 </script>
-</body></html>
