@@ -335,8 +335,8 @@ li {
     <ul>
       <li><strong>bloc opératoire :</strong></li>
       <li>Chirurgie cardiaque: Pr Vinventelli </li>
-      <li>Chirurgie thoracique:Pr Venissac</li>       <li><strong>PTI:</strong></li>
-      <LI>Cardiologie:Pr </LI>
+      <li>Chirurgie thoracique: Pr Venissac</li>       <li><strong>PTI:</strong></li>
+      <LI>Cardiologie: Pr </LI>
       <li><strong>Anesthésie:</strong></li>
       <li>Chef de service: Dr Desbordes</li>
   
@@ -348,7 +348,7 @@ li {
     <h2> Référents</h2>
     <ul>
     <li><strong>Cadre :</strong> </li> <li> Mme Hennache Audrey 29099</li>
-    <li><strong>Référents IADE :</strong></li> <li> Tosolini Karen</li><li>Carrier Sabah</li> <li>Lavergne Sebastien</li> <li>Molinaro Camille</li>
+    <li><strong>Référents IADE :</strong></li> <li> - Tosolini Karen</li><li>-Carrier Sabah</li> <li>-Lavergne Sebastien</li> <li>-Molinaro Camille</li>
       <li><strong>Référent SSPI:</strong> Bichelberger Eve</li>
       </ul>
   </div>
