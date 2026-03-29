@@ -347,8 +347,8 @@ li {
     <div class="card">
     <h2> Référents</h2>
     <ul>
-    <li><strong>Cadre :</strong> Mme Hennache Audrey 29099</li>
-    <li><strong>Référents IADE :</strong> Tosolini Karen, Carrier Sabah, Lavergne Sebastien, Molinaro Camille</li>
+    <li><strong>Cadre :</strong> </li> <li> Mme Hennache Audrey 29099</li>
+    <li><strong>Référents IADE :</strong></li> <li> Tosolini Karen</li><li>Carrier Sabah</li> <li>Lavergne Sebastien</li> <li>Molinaro Camille</li>
       <li><strong>Référent SSPI:</strong> Bichelberger Eve</li>
       </ul>
   </div>
