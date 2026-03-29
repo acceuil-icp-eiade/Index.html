@@ -335,7 +335,7 @@ li {
       <li><strong>bloc opératoire :</strong></li>
       <li>Chirurgie cardiaque: Pr Vinventelli </li>
       <li>Chirurgie thoracique: Pr Venissac</li>       <li><strong>PTI:</strong></li>
-      <LI>Cardiologie: Pr </LI>
+      <LI>Cardiologie: Pr Lemesle </LI>
       <li><strong>Anesthésie:</strong></li>
       <li>Chef de service: Dr Desbordes</li>
   
